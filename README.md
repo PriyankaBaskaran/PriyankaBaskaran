@@ -44,9 +44,23 @@ My experience and interests include backend development with **C# and .NET**, mo
 
 ### AI and Tools
 
+### 🤖 AI and Tools
+
+![Kiro](https://img.shields.io/badge/Kiro-AI_IDE-6E56CF?style=for-the-badge&logo=kiro&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+![AWS AI Services](https://img.shields.io/badge/AWS_AI_Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Amazon Comprehend](https://img.shields.io/badge/Amazon_Comprehend-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![Azure AI Services](https://img.shields.io/badge/Azure_AI_Services-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure AI Language](https://img.shields.io/badge/Azure_AI_Language-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Document Intelligence](https://img.shields.io/badge/Azure_Document_Intelligence-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
