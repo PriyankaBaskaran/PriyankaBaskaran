@@ -63,7 +63,7 @@ An AI-powered application built with C# and ASP.NET Core.
 - Database connectivity
 - Responsive user interface
 
-[View Project](repository-link)
+[View Project][(repository-link](https://github.com/PriyankaBaskaran/MomNova-Smart-Parenting-Assistant-Prototype))
 
 ---
 
@@ -79,7 +79,7 @@ A complete web application with a modern frontend and .NET backend.
 - Responsive design
 - SQL database integration
 
-[View Project](repository-link)
+[View Project]([repository-link](https://github.com/PriyankaBaskaran/MultilingualMandi))
 
 ---
 
@@ -95,7 +95,7 @@ A production-style ASP.NET Core API designed using clean architecture principles
 - Unit testing
 - Swagger documentation
 
-[View Project](repository-link)
+[View Project]([repository-link](https://github.com/PriyankaBaskaran/SmartParentingAssistant-Backend))
 
 ---
 
@@ -113,7 +113,7 @@ A production-style ASP.NET Core API designed using clean architecture principles
 
 ## 📫 Connect With Me
 
-[LinkedIn]((https://www.linkedin.com/in/priyanga-baskaran-5a9210160)) ·
+[LinkedIn](https://www.linkedin.com/in/priyanga-baskaran-5a9210160) ·
 [Email](mailto:priyang.baskaran@gmail.com)
 
 ---
